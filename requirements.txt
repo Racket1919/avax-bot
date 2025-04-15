@@ -1,0 +1,6 @@
+binance
+python-telegram-bot
+pandas
+numpy
+PyYAML
+python-dotenv
